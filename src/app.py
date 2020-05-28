@@ -1,3 +1,2 @@
-#devolperA: line 1:
-#devloperB: line 1
+this is my first commit
 
